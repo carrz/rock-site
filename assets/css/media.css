@@ -1,0 +1,21 @@
+@media (min-width: 0px) and (max-width: 824px) {
+  [ class*="col-"]{
+    width: 100%;
+  }
+  /*Header*/
+  .bootstrap{
+    margin-left: 0;
+  }
+  .links{
+    display: none;
+  }
+  /*Principal*/
+  .dj-div{
+    height: 636px;
+  }
+  .dj{
+
+  }
+
+
+}
